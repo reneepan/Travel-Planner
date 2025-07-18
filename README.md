@@ -1,16 +1,2 @@
-# final_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Travel-Planner
+An Android app that allows users to create and manage custom travel itineraries. The app features a home screen displaying all saved trips, a trip detail view with editable daily plans, and a combined add/edit trip interface. Users can dynamically add and reorder activities, with real-time updates reflected across views. Built entirely in Java using Android Studio, the app uses SharedPreferences for persistent local storage and RecyclerView with custom adapters for a responsive, scrollable UI. The project emphasizes modular design, user-friendly interaction, and full CRUD support without external dependencies.
