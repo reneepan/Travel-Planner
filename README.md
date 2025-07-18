@@ -1,2 +1,2 @@
 # Travel-Planner
-A mobile app that allows users to create, view, and manage personalized travel itineraries.
+An Android app that allows users to create and manage custom travel itineraries. The app features a home screen displaying all saved trips, a trip detail view with editable daily plans, and a combined add/edit trip interface. Users can dynamically add and reorder activities, with real-time updates reflected across views. Built entirely in Java using Android Studio, the app uses SharedPreferences for persistent local storage and RecyclerView with custom adapters for a responsive, scrollable UI. The project emphasizes modular design, user-friendly interaction, and full CRUD support without external dependencies.
